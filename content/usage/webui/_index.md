@@ -1,7 +1,7 @@
 ---
 title: "Web UI"
 weight: 1
-draft: false
+draft: true
 ---
 
 ![UI](https://raw.githubusercontent.com/bettercap/media/master/ui-events.png)
